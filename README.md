@@ -12,5 +12,6 @@ What affects a movies rating<br />
 <br />
 <br />
 [CHANGELOG]<br />
+(2/1/23)<br />
 7PM: We have decided to use the Kaggle CSV files regarding movie data <br />
 7:49PM- Created trello for project tracking and updates <br />
