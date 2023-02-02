@@ -9,6 +9,8 @@ What affects a movies rating<br />
 	- how deep does this get???<br />
 <br />
 <br />
-
+<br />
+<br />
+[CHANGELOG]<br />
 7PM: We have decided to use the Kaggle CSV files regarding movie data <br />
 7:49PM- Created trello for project tracking and updates <br />
