@@ -18,3 +18,5 @@ What affects a movies rating<br />
 (2/2/23)<br />
 (2/723)<br />
 created draft ERD<br />
+(2/12/23)<br /> 
+CSV data is cleaned up, removed csv files that will not be used such as links. credits &  keywords csv will be used as added extra if tine. data now needs table creation in SQL -uriel
