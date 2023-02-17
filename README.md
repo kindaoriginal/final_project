@@ -1,5 +1,6 @@
 # final_project
 Trello - https://trello.com/b/S3r1D66S/final-project-movies<br />
+Dashboard - https://tinyurl.com/3a2zswas <br />
 ------------------------------------------------------------<br />
 <br />
 What affects a movies rating<br />
