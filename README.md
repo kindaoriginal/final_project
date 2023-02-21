@@ -18,6 +18,9 @@
 > This can be due to a variety of formatting issues, or issues with non-english characters
 ![image](https://user-images.githubusercontent.com/112450151/220477095-7918ffa9-bf22-4613-a6c9-13b4f842a0d7.png)
 ## What We Cleaned
-##### We began by deciding to limit the amount of data we were using by deciding to only use movies released after 1970, as many movies from before then had no information on budget or revenue. We then decided to eliminate any movies whos language was not in English. This removed a good chunk of rows that had character that excel could not make sense of. Once that was finished, we noticed that many movies generated 0 reveneu. Upon inspection and some googling, many of these movies were Netflix specials, so there was technically no revenue to be gained from the release; Although new paying subscribers who joined for just that movie would be able to be counted as revenue, the csv did not have that information. Average rating was changed to rating for simplification. 
+##### We began by deciding to limit the amount of data we were using by deciding to only use movies released after 1970, as many movies from before then had no information on budget or revenue. We then decided to eliminate any movies whos language was not in English. This removed a good chunk of rows that had character that excel could not make sense of. Once that was finished, we noticed that many movies generated 0 reveneu. Upon inspection and some googling, many of these movies were Netflix specials, so there was technically no revenue to be gained from the release; Although new paying subscribers who joined for just that movie would be able to be counted as revenue, the csv did not have that information. Average rating was changed to rating for simplification. and language as a column was removed as it is all now in english. Other coloumns removed include things like adult rating, poster path, etc. 
+> There are now only 4362 rows
 ![image](https://user-images.githubusercontent.com/112450151/220478483-1f31c3db-7379-4707-8dcc-6781207b1fa2.png)
 
+# Linear Regression Model
+##### 
