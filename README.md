@@ -22,5 +22,5 @@
 > There are now only 4362 rows
 ![image](https://user-images.githubusercontent.com/112450151/220478483-1f31c3db-7379-4707-8dcc-6781207b1fa2.png)
 
-# Linear Regression Model
+# Machine Learning
 ##### 
