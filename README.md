@@ -3,7 +3,7 @@
 # Links<br />
 
 >>Trello - https://trello.com/b/S3r1D66S/final-project-movies <br />
->>Tableau - https://tinyurl.com/3a2zswas <br />
+>>Tableau - https://public.tableau.com/app/profile/ashton.walker/viz/FinalProjectOverview_16765963190680/Dashboard1?publish=yes <br />
 
 
 #Summary<br />
