@@ -24,9 +24,9 @@
 
 # Tableau
 ![image](https://github.com/kindaoriginal/final_project/blob/main/Resources/chrome_iPf7B3Hafb.png)
-## In our tableau dashboard we wanted to show the overall revenue gain/loss from certain months or by specific genres. But also wanted to be able to see exactly what a specific movie brought in during those months by applying a filter to be able to select from a list of all movies released in the U.S. after 1970.
-### What we noticed
-#### During the months of May/June/July specifically when school is out for most kids/adults, is when movies tend to produce higher revenue. The same can be said for the month of December (everybody loves Christmas Day movies).
+### In our tableau dashboard we wanted to show the overall revenue gain/loss from certain months or by specific genres. But also wanted to be able to see exactly what a specific movie brought in during those months by applying a filter to be able to select from a list of all movies released in the U.S. after 1970.
+## What we noticed
+#### During the months of May/June/July specifically when school is out for most kids/adults, is when movies tend to produce higher revenue. The same can be said for the month of December (everybody loves Christmas Day movies). So if you are looking to start directing movies, release them in the summer. But also thats when all the best movies come out so you'll have some big competition.
 ![image](https://github.com/kindaoriginal/final_project/blob/main/Resources/chrome_1nMuvw5G0I.png)
 
 # Machine Learning
