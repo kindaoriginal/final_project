@@ -35,7 +35,7 @@
 > The line of fit seems to have much more dots on the lower end of budget. It seemed to only predict one or two dots on the higher end of budget above a 6 rating, which is our cutoff for a decent movie.
 ![image](https://user-images.githubusercontent.com/112450151/221037023-3d4b97f4-5a82-4f81-af78-f18265b10164.png)
 ### Our confusion matrix was not the best predictor, with an accuracy score of .52 or 52%. Just above half, a coin flip would be just as good on whether or not budget affects a movies rating
-> As you can see we have more in our true positive than negative, but not by much
+> The confusion matrix could not adequately correctly predict if a movies rating was affected by the budget
 ![image](https://user-images.githubusercontent.com/112450151/221038454-6f7f1211-9ca8-4682-8abd-b2e8a60f88aa.png)
 #### We also tried to do a logistic model on month vs rating, but tableau proved to be a much better tool to see that correlation. 
 ![image](https://user-images.githubusercontent.com/112450151/221038909-c082e7f8-ecb3-42d9-a4f8-cd6f7a8e40ba.png)
