@@ -39,4 +39,8 @@
 ![image](https://user-images.githubusercontent.com/112450151/221038454-6f7f1211-9ca8-4682-8abd-b2e8a60f88aa.png)
 #### We also tried to do a logistic model on month vs rating, but tableau proved to be a much better tool to see that correlation. 
 ![image](https://user-images.githubusercontent.com/112450151/221038909-c082e7f8-ecb3-42d9-a4f8-cd6f7a8e40ba.png)
+#### Finally we used a Random Forest model to try and get a better prediction, but it was still 52%
+![image](https://user-images.githubusercontent.com/112450151/221125690-ad2086d2-c42e-4110-aa78-628e36a7cf6a.png)
+![image](https://user-images.githubusercontent.com/112450151/221125816-715127e8-51a3-4581-9965-c35a10b32673.png)
+
 
